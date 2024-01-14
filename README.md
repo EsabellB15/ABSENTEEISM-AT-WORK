@@ -1,4 +1,4 @@
-# ABSENTEEISM-AT-WORK
+# Absenteeism-at-Work
 
 ![Intro_image](https://github.com/EsabellB15/ABSENTEEISM-AT-WORK/assets/123163220/4d51fefc-cf7f-4ea0-bf05-54979e5bdcb7)
 
